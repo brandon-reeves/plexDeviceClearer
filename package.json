@@ -1,0 +1,13 @@
+{
+  "name": "plexdeviceclearer",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "xml-parser": "^1.2.1"
+  }
+}
